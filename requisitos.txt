@@ -1,0 +1,13 @@
+objetivo é trabalhar com orientação a objetos usando laravel para criar uma aplicação que possa ter:
+
+- controle de fornecedores, pedidos e produtos.
+- controle dos pedidos deve ser por dia.
+- deve permitir gerar pdf e ter comando para copiar os dados do pedido para mandar para outros lugares.
+- deve ter botao para enviar para o whatsapp do fornecedor assim que realizar a criação do pedido.
+
+de inicio iremos focar em:
+criar uma dashboard só para esse controle, com aba "aside" para controle do "crud".
+
+quero usar poo nesse projeto:
+criação e manipulação de objetos, classes, herança, encapsulamento e polimorfismo
+
